@@ -13,14 +13,14 @@
   "author": "Mendurim Rashiti",
   "license": "ISC",
   "devDependencies": {
-      "browersify":"*", 
+      "browserify":"*", 
       "flux": "*", 
       "gulp": "*", 
       "reactify":"*", 
       "vinyl-source-stream":"*", 
       "object-assign":"*"
     }, 
-    "dependecies":{
+    "dependencies":{
       "react":"^0.14.7", 
       "react-dom": "^0.14.7" 
     }, 

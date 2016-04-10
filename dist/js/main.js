@@ -19060,7 +19060,10 @@ var ReactDOM = require('react-dom');
 var AppAPI = require('./utils/appAPI.js'); 
 
 
-ReactDOM.render(React.createElement(App, null) , document.getElementById('app')); 
+ReactDOM.render(
+	React.createElement(App, null),
+	 document.getElementById('app')
+); 
 
 },{"./components/App":160,"./utils/appAPI.js":163,"react":158,"react-dom":2}],162:[function(require,module,exports){
 

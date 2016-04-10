@@ -8,6 +8,8 @@ var App = React.createClass({
 			<div>
 			 My App
 			</div>
-		); 
+		)
 	}
 }); 
+
+module.exports = App; 
